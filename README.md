@@ -4,7 +4,7 @@ Este repositorio contiene el desarrollo de las evaluaciones de la asignatura Min
 
 ## 1. Conjunto de Datos (Dataset)
 * **Nombre:** Rain in Australia
-* **Fuente:** [Kaggle - Rain in Australia](https://www.kaggle.com/datasets/jsph92/weather-aus)
+* **Fuente:** [Kaggle - Rain in Australia](https://www.kaggle.com/code/mohamedzayton/rain-in-australia)
 * **Descripción:** 10 años de observaciones meteorológicas diarias de varias ubicaciones en Australia.
 
 ## 2. Metodología
